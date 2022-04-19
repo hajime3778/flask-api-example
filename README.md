@@ -65,7 +65,7 @@ https://cocoatomo.github.io/poetry-ja/cli/
 ## venv activate
 ``` sh
 . .venv/bin/activate
-```dea
+```
 
 ### venv deactivate
 ``` sh
